@@ -1,5 +1,6 @@
-# bert_bilstm_crf_ner_pytorch-master
-## BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+# BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+## Branch
+master
 ## Overview
 This repository contains resources related to BERT (Bidirectional Encoder Representations from Transformers), a language representation model designed to pre-train deep bidirectional representations from unlabeled text. Unlike unidirectional language models, BERT jointly conditions on both left and right context in all layers, enabling it to achieve state-of-the-art results on various natural language processing tasks with minimal task-specific architecture modifications.
 
